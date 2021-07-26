@@ -23,7 +23,3 @@ window.addEventListener('load', function() {
     $('body').removeClass('hidden');
     menus();
 });
-window.addEventListener('scroll', function() {
-    console.log(window.pageYOffset);
-    menus();
-});
