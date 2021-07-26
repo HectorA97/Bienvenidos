@@ -186,7 +186,7 @@ nav .enlaces a:hover {
 }
 
 .contenedor_sobre>h1{
-    font-size: 12mm;
+    font-size: 10mm;
     margin-top: 11%;
     width: 40%;
     transition: 0.4s;
@@ -499,7 +499,7 @@ nav .enlaces a:hover {
     }
 
     .contenedor_sobre>h1{
-        font-size: 6mm;
+        font-size: 7mm;
         margin-top: 19%;
         width: 25%;
         transition: 0.4s;
